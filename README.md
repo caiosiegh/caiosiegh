@@ -1,7 +1,7 @@
 ## Caio Henrique Rodrigues Gusmão
 ### 📚 Análise e Desenvolvimento de Sistemas
-#### ⚙️ Atualmente estou buscando meu primeiro emprego na área de Tecnologia
-#### 🎮 Apaixonado por Tibia desde 2007
+#### ⚙️ Analista de Testes e Qualidade de Software (QA)
+#### 🎮 Criador de conteúdo sobre Tibia
 <div align="center">
   <a href="https://github.com/caiosiegh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiosiegh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
