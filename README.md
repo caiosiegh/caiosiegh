@@ -2,11 +2,7 @@
 ### 📚 Análise e Desenvolvimento de Sistemas
 #### ⚙️ Analista de Testes e Qualidade de Software (QA)
 #### 🎮 Criador de conteúdo sobre Tibia
-<div align="center">
-  <a href="https://github.com/caiosiegh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiosiegh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosiegh&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://www.svgrepo.com/show/439022/typescript.svg">
